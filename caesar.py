@@ -55,3 +55,4 @@ print('''
 
 while mode != "1" or mode != "2":
     setup()
+    
